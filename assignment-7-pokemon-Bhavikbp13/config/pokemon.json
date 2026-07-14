@@ -1,0 +1,31 @@
+{
+	"names": [
+		"bulbasaur", "charmander", "squirtle"
+	],
+	"definitions": {
+		"bulbasaur": {
+			"name": "Bulbasaur",
+			"baseHealth": 45,
+			"baseAttack": 49,
+			"baseDefense": 49,
+			"baseSpeed": 45,
+			"baseExperience": 64
+		},
+		"charmander": {
+			"name": "Charmander",
+			"baseHealth": 39,
+			"baseAttack": 52,
+			"baseDefense": 43,
+			"baseSpeed": 65,
+			"baseExperience": 62
+		},
+		"squirtle": {
+			"name": "Squirtle",
+			"baseHealth": 44,
+			"baseAttack": 48,
+			"baseDefense": 65,
+			"baseSpeed": 43,
+			"baseExperience": 63
+		}
+	}
+}
